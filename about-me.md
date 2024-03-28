@@ -1,0 +1,16 @@
+---
+cover-img: /assets/img/me-guitar.jpeg
+title: About Me
+---
+
+## About Me
+
+
+Hi!
+
+My name is Maddie Cutler. I am a musician attending Brigham Young University- Idaho pursuing a Bachelor of Arts in Music with an emphasis in Production. My instrument is the violin, although I play several others. During the Winter 2024 semester, I took a class called "Basic Audio Engineering" where we learned the basics of audio engineering (obviously... I'd be concerned if we didn't). We had a final project in that class where we had to show what we learned throughout the class. I've wanted to do videos about production and reviewing songs and albums for a long time, but my fiance is the one who told me I should do a blog. He had recently started a <a href="https://trevinjones.com">tech blog</a> and thought it would be a great idea for me to do that as well. I currently run an <a href="https://www.instagram.com/musicbymadds23">Instagram</a> account for my music and a <a href="https://www.youtube.com/@musicbymadds23">YouTube</a> channel.
+
+Every week I will post about a song and talk about the techniques they use to achieve the sound they got. I will focus mostly on pop music, as that is the field I want to go into and the genre I am most familiar with. One week of each month, there will be a "special" post. This post will alternate between a more general album review or a produced cover with some explanation of what I did to achieve the sound. All of my posts will have a video about the topic of the week and the blog posts will act as a transcript. That way viewers can do what is most convenient: watch the videos or read the posts. I will also have a <a href="/suggestionsform" >form</a> you can fill out to suggest songs or albums you want me to talk about or cover!
+
+I hope you all enjoy this blog!
+
