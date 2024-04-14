@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Mini Mix Project: Eyes Closed by Imagine Dragons
-subtitle: It's telling you exactly what it needs and wants to say, but in a way that can go unnoticed.
+title: Mini Mix Project -Eyes Closed by Imagine Dragons
+subtitle: This was too cool not to share!
 tags: [Imagine Dragons,Eyes Closed,remix,Audacity,Ultimate Vocal Remover]
 comments: true
 readtime: true
