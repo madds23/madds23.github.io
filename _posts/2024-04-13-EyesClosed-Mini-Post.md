@@ -9,6 +9,11 @@ readtime: true
 
 SPONTANEOUS POST ALERT!
 
+<figure>
+    <img src="/assets/img/Imagine-Dragons-Eyes-Closed1.png" alt="Promotional photo of Eyes Closed by Imagine Dragons.">
+    <figcaption>Promotional photo of Eyes Closed by Imagine Dragons. <a href="https://www.frequence3.com/actualite-musicale/imagine-dragons-de-retour-avec-eyes-closed/">Frequence3</a></figcaption>
+</figure>
+
 This weekend I was presented the opportunity to work on a mixing project. I was asked to create a cut of the new Imagine Dragons song ["Eyes Closed"](https://youtu.be/v08qmr8m_-w?si=BZ4l8u-WNdxQYnxC) to potentially be used in a larger project.
 
 I was given a list of parts that were wanted in the cut and a couple more specifc requests like spaces and no lyrics to fulfill. I used Audacity and Ultimate Vocal Remover to achive the cut.
