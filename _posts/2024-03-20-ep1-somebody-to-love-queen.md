@@ -103,4 +103,4 @@ This is honestly one of my favorite songs of all time and I think it's a very cl
 
 ---
 
-Be on the lookout for my next post and don't forget to fill out my [Suggestions Form](/suggestionsform.md) if you'd like me to analyze/cover a song or album!
+Be on the lookout for my next post and don't forget to fill out my [Suggestions Form](/suggestionsform) if you'd like me to analyze/cover a song or album!

@@ -28,4 +28,4 @@ Follow this [link](https://www.youtube.com/watch?v=1DyZ_692gK4) to listen on You
 
 Be on the look out for Ultimate Vocal Remover to be used in other posts because it is super fun to play with and can help improve my mixing skills!
 
-Fill out the [form](/suggestionsform.md) so I can post what you want to hear! See you in our regularly scheduled post next week!
+Fill out the [form](/suggestionsform) so I can post what you want to hear! See you in our regularly scheduled post next week!

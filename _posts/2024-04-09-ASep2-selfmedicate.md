@@ -76,6 +76,6 @@ In conclusion, this is a great song that has a wonderful summer beat and vibe, b
 
 ---
 
-As always, leave [suggestions](/suggestionsform.md) for songs and albums! Make sure you subscribe to my [YouTube channel](https://www.youtube.com/channel/UCJjN0ekhHr2-lyNhRAMcpOA) and follow my [Instagram](https://www.instagram.com/musicbymadds23) account! Next week we're diving into our first suggested song. I can't wait to discuss it with all of you.
+As always, leave [suggestions](/suggestionsform) for songs and albums! Make sure you subscribe to my [YouTube channel](https://www.youtube.com/channel/UCJjN0ekhHr2-lyNhRAMcpOA) and follow my [Instagram](https://www.instagram.com/musicbymadds23) account! Next week we're diving into our first suggested song. I can't wait to discuss it with all of you.
 
 See you guys next week!
