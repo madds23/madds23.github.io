@@ -57,10 +57,10 @@ Another line I love is "wearing your white lies like it's holy." It's almost as 
 
 We get to hear more of the chorus floating above and behind the guitar solo, but some of my favorite lyrics are in the "hidden bridge:"
 
-"Uh oh got your head in the clouds
-Got me wonderin' how I feel right now
-You poison me like a drug
-Stumblin' lies trying to be enough
+"Uh oh got your head in the clouds,
+Got me wonderin' how I feel right now,
+You poison me like a drug,
+Stumblin' lies trying to be enough,
 Your 'one and only'"
 
 To boil it down into a couple sentences: Why is what I'm doing receiving so many mixed reactions? Why am I still trying to satisfy this "standard?" This can't be good, but I'm still going to push through it.
