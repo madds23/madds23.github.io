@@ -1,3 +1,3 @@
 export function Hero() {
-  return <p>hero image here</p>
+  return <img src="web-banner.png" className="w-full"/>
 }
