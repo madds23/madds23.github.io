@@ -34,7 +34,7 @@ function AboutBody() {
     <div className="flex flex-col md:flex-row gap-4 p-4">
       <img src="/e1thumb.webp" alt="episode 1" className="md:basis-2/3 overflow-hidden rounded-md shadow-md" />
       <div className="m-4 flex justify-center items-center md:basis-1/3">
-        <a href="https://open.spotify.com/show/7i20wl8EovMWqp49fGYbR7?si=e090a3309f1d4694" className="m-auto p-4 rounded-full bg-madds-maroon text-white shadow-md">
+        <a href="https://open.spotify.com/episode/2rcXEKWNe0CkgWkng7xbYy?si=75I7vBtBT1aU7AMxpJCCEg" target="_blank" className="m-auto p-4 rounded-full bg-madds-maroon text-white shadow-md">
           <FontAwesomeIcon icon={faSpotify} />
           Listen to Episode 1
         </a>
