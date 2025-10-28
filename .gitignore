@@ -1,16 +1,7 @@
-# project
-_site
-.sass-cache
-.vagrant
-
-# general
 .DS_Store
-Thumbs.db
-ehthumbs.db
+.env
+/node_modules/
 
-Gemfile.lock
-
-beautiful-jekyll-theme-*.gem
-
-cheatsheet.md
-inprogress/
+# React Router
+/.react-router/
+/build/
