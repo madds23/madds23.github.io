@@ -22,7 +22,7 @@ export default function About() {
 
 function AboutBody() {
   return <main className="bg-white p-4 md:p-10 text-left text-red-950 text-2xl font-sans font-medium lg:px-16 xl:px-28">
-    <SideBySide headerImgSrc="/press_play.png" textContent="" imgSrc="/home1.jpg" imgSide="right">
+    <SideBySide headerImgSrc="/press_play.png" textContent="" imgSrc="/home1.webp" imgSide="right">
       <p>
         Whether you're a casual listener or a vinyl obsessive, press play and discover something new with me on The Music by Madds Podcast. Want to hear about pop? We've got it. Want to learn more about classical music? We've got it. Need some new songs for your playlist? Stay until the end of each episode for my Songs of the Day segment.
         <br /><br />
@@ -30,7 +30,7 @@ function AboutBody() {
       </p>
     </SideBySide>
     <div className="flex flex-col md:flex-row gap-4 p-4">
-      <img src="/e1thumb.png" alt="episode 1" className="md:basis-2/3 overflow-hidden rounded-md shadow-md" />
+      <img src="/e1thumb.webp" alt="episode 1" className="md:basis-2/3 overflow-hidden rounded-md shadow-md" />
       <div className="m-4 flex justify-center items-center md:basis-1/3">
         <a href="https://open.spotify.com/show/7i20wl8EovMWqp49fGYbR7?si=e090a3309f1d4694" className="m-auto p-4 rounded-full bg-madds-maroon text-white shadow-md">
           Listen to Episode 1
