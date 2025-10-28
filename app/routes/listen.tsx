@@ -8,7 +8,7 @@ import {faSpotify} from "@fortawesome/free-brands-svg-icons"
 
 export function meta({}: Route.MetaArgs) {
   return [
-    { title: "About Me | Music by Madds" },
+    { title: "About the Podcast | Music by Madds" },
     { name: "description", content: "Welcome to the Music by Madds Podcast!" },
   ];
 }
