@@ -6,7 +6,7 @@ import { NavLink } from "react-router"
 export function Navbar() {
   const [hidden, setHidden] = useState(true);
 
-  const navClassName = `bg-madds-pink px-2 text-xl font-medium ${hidden ? "hidden" : ""}`
+  const navClassName = `bg-madds-pink flex flex-col px-2 text-xl font-medium ${hidden ? "hidden" : ""}`
 
   return <>
     <div className="w-full bg-madds-pink grid grid-cols-3">
@@ -17,6 +17,7 @@ export function Navbar() {
       <NavLink to="/">
         Home
       </NavLink>
+      <a href="https://musicbymadds.com/links">Links</a>
     </nav>
   </>
 }

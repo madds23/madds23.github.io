@@ -7,7 +7,7 @@ interface SideBySideProps {
 
 export function SideBySide({ headerImgSrc, textContent, imgSrc, imgSide }: SideBySideProps) {
   const textDiv = (
-    <div className="p-4 basis-1/2">
+    <div className="justify-center flex flex-col p-4 basis-1/2">
       {headerImgSrc && <img src={headerImgSrc} alt="header" className="" />}
       <p className="px-8 py-4">{textContent}</p>
     </div>
