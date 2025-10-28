@@ -17,10 +17,13 @@ export function Navbar() {
       <NavLink to="/">
         Home
       </NavLink>
-      <a href="https://musicbymadds.com/links">Links</a>
       <NavLink to="/about">
-        About
+        About Me
       </NavLink>
+      <NavLink to="/listen">
+        About the Podcast
+      </NavLink>
+      <a href="https://musicbymadds.com/links">Links</a>
     </nav>
   </>
 }
