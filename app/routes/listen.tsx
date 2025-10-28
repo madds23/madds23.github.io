@@ -3,6 +3,8 @@ import { Navbar } from "~/components/navbar";
 import { Hero } from "~/components/hero";
 import { Footer } from "~/components/footer";
 import { SideBySide } from "~/components/sidebysideimg";
+import {FontAwesomeIcon} from "@fortawesome/react-fontawesome"
+import {faSpotify} from "@fortawesome/free-brands-svg-icons"
 
 export function meta({}: Route.MetaArgs) {
   return [
@@ -33,6 +35,7 @@ function AboutBody() {
       <img src="/e1thumb.webp" alt="episode 1" className="md:basis-2/3 overflow-hidden rounded-md shadow-md" />
       <div className="m-4 flex justify-center items-center md:basis-1/3">
         <a href="https://open.spotify.com/show/7i20wl8EovMWqp49fGYbR7?si=e090a3309f1d4694" className="m-auto p-4 rounded-full bg-madds-maroon text-white shadow-md">
+          <FontAwesomeIcon icon={faSpotify} />
           Listen to Episode 1
         </a>
       </div>
