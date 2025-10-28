@@ -1,15 +1,19 @@
+import type { ReactNode } from "react";
+
 interface SideBySideProps {
   headerImgSrc?: string;
   textContent: string;
   imgSrc: string;
   imgSide: "left" | "right";
+  children?: ReactNode;
 }
 
-export function SideBySide({ headerImgSrc, textContent, imgSrc, imgSide }: SideBySideProps) {
+export function SideBySide({ headerImgSrc, textContent, imgSrc, imgSide, children }: SideBySideProps) {
   const textDiv = (
     <div className="justify-center flex flex-col p-4 basis-1/2">
       {headerImgSrc && <img src={headerImgSrc} alt="header" className="" />}
       <p className="px-8 py-4">{textContent}</p>
+      {children}
     </div>
   );
 

@@ -6,8 +6,8 @@ import { SideBySide } from "~/components/sidebysideimg";
 
 export function meta({}: Route.MetaArgs) {
   return [
-    { title: "New React Router App" },
-    { name: "description", content: "Welcome to React Router!" },
+    { title: "Music by Madds" },
+    { name: "description", content: "Welcome to the Music by Madds Podcast!" },
   ];
 }
 

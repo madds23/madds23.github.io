@@ -18,6 +18,9 @@ export function Navbar() {
         Home
       </NavLink>
       <a href="https://musicbymadds.com/links">Links</a>
+      <NavLink to="/about">
+        About
+      </NavLink>
     </nav>
   </>
 }
