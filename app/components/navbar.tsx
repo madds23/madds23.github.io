@@ -1,7 +1,7 @@
 import { faBars } from "@fortawesome/free-solid-svg-icons"
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
 import { useState } from "react"
-import { NavLink } from "react-router"
+import { NavLink, Link } from "react-router"
 
 export function Navbar() {
   const [hidden, setHidden] = useState(true);
@@ -11,7 +11,9 @@ export function Navbar() {
   return <>
     <div className="w-full bg-madds-pink grid grid-cols-3">
       <FontAwesomeIcon onClick={() => setHidden(!hidden)} icon={faBars} className="text-2xl p-2 my-auto" />
-      <img src="mbm.png" className="w-60 mx-auto py-2 my-auto" />
+      <Link to="/">
+        <img src="mbm.png" className="w-60 mx-auto py-2 my-auto" />
+      </Link>
     </div>
     <nav className={navClassName}>
       <NavLink to="/">
