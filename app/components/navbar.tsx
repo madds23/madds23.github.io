@@ -25,6 +25,9 @@ export function Navbar() {
       <NavLink to="/listen">
         About the Podcast
       </NavLink>
+      <NavLink to="/media-kit">
+        Media Kit
+      </NavLink>
       <a href="https://musicbymadds.com/links">Links</a>
     </nav>
   </>
