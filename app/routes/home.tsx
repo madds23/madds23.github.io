@@ -22,7 +22,7 @@ export default function Home() {
 }
 
 function HomeBody() {
-    return <main className="bg-white p-4 md:p-10 text-left text-red-950 text-2xl font-sans font-medium lg:px-16 xl:px-28">
+    return <main className="bg-white p-4 md:p-10 text-left text-red-950 text-2xl font-medium lg:px-16 xl:px-28">
         <SideBySide headerImgSrc="/press_play.png" textContent="Whether you're a casual listener or a vinyl obsessive, press play and discover something new with me on The Music by Madds Podcast. Want to hear about pop? We've got it. Want to learn more about classical music? We've got it. Need..." imgSrc="/home1.webp" imgSide="right" >
             <div className="m-4 flex justify-center items-center md:basis-1/3">
                 <Link to="/listen" className="m-auto p-4 rounded-full bg-madds-maroon text-white shadow-md">

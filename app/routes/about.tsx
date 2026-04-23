@@ -21,7 +21,7 @@ export default function About() {
 }
 
 function AboutBody() {
-    return <main className="bg-white p-4 md:p-10 text-left text-red-950 text-2xl font-sans font-medium lg:px-16 xl:px-28">
+    return <main className="bg-white p-4 md:p-10 text-left text-red-950 text-2xl font-medium lg:px-16 xl:px-28">
         <SideBySide headerImgSrc="/meet_madds.png" textContent="" imgSrc="/madds1.webp" imgSide="left">
             <p>
                 Hi! I’m Madds, your

@@ -26,7 +26,7 @@ function MediaKitBody() {
         The music podcast for mainstream<br className="hidden md:block" /> music lovers.
       </h1>
 
-      <img src="we_need_you.png" alt="We need you!" className="w-48 md:w-64 mb-6" />
+      <img src="we_need_you.png" alt="We need you!" className="w-88 md:w-116 mb-6" />
 
       <p className="text-lg md:text-xl max-w-2xl mb-4 font-semibold">
         Our mission is to bring educational and entertaining music content to the mainstream music world. To achieve that, we need your help.
