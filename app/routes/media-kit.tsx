@@ -21,7 +21,7 @@ function MediaKitBody() {
   return <main className="bg-white text-madds-maroon">
     {/* Hero / CTA Section */}
     <section className="flex flex-col items-center text-center px-6 py-12 md:py-20">
-      <img src="full_logo.png" alt="Music by Madds" className="w-48 md:w-64 mb-6" />
+      <img src="full_logo.png" alt="Music by Madds" className="w-64 md:w-116 mb-6" />
       <h1 className="text-2xl md:text-4xl font-bold mb-8">
         The music podcast for mainstream<br className="hidden md:block" /> music lovers.
       </h1>
