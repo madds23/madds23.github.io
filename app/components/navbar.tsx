@@ -12,7 +12,7 @@ export function Navbar() {
     <div className="w-full bg-madds-pink grid grid-cols-3">
       <FontAwesomeIcon onClick={() => setHidden(!hidden)} icon={faBars} className="text-2xl p-2 my-auto" />
       <Link to="/">
-        <img src="mbm.png" className="w-60 mx-auto py-2 my-auto" />
+        <img src="/mbm.png" className="w-60 mx-auto py-2 my-auto" />
       </Link>
     </div>
     <nav className={navClassName}>

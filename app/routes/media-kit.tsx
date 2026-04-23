@@ -21,12 +21,12 @@ function MediaKitBody() {
   return <main className="bg-white text-madds-maroon">
     {/* Hero / CTA Section */}
     <section className="flex flex-col items-center text-center px-6 py-12 md:py-20">
-      <img src="full_logo.png" alt="Music by Madds" className="w-64 md:w-116 mb-6" />
+      <img src="/full_logo.png" alt="Music by Madds" className="w-64 md:w-116 mb-6" />
       <h1 className="text-2xl md:text-4xl font-bold mb-8">
         The music podcast for mainstream<br className="hidden md:block" /> music lovers.
       </h1>
 
-      <img src="we_need_you.png" alt="We need you!" className="w-88 md:w-116 mb-6" />
+      <img src="/we_need_you.png" alt="We need you!" className="w-88 md:w-116 mb-6" />
 
       <p className="text-lg md:text-xl max-w-2xl mb-4 font-semibold">
         Our mission is to bring educational and entertaining music content to the mainstream music world. To achieve that, we need your help.
@@ -61,7 +61,7 @@ function MediaKitBody() {
           </p>
         </div>
         <div className="md:w-1/2 w-full">
-          <ResponsiveYouTube embedId="TbYcaNAnGgs" title="Bruno Mars episode" />
+          <ResponsiveYouTube embedId="TbYcaNAnGgs" title="Bruno Mars episode" start={1461} />
         </div>
       </div>
 
@@ -73,7 +73,7 @@ function MediaKitBody() {
           </p>
         </div>
         <div className="md:w-1/2 w-full">
-          <ResponsiveYouTube embedId="jqa9SnZojn4" title="Spotify mix feature episode" />
+          <ResponsiveYouTube embedId="jqa9SnZojn4" title="Spotify mix feature episode" start={744} />
         </div>
       </div>
 
@@ -92,13 +92,16 @@ function MediaKitBody() {
   </main>
 }
 
-function ResponsiveYouTube({ embedId, title, aspectRatio = "16/9" }: { embedId: string; title: string; aspectRatio?: string }) {
+function ResponsiveYouTube({ embedId, title, aspectRatio = "16/9", start }: { embedId: string; title: string; aspectRatio?: string; start?: number }) {
   const isVertical = aspectRatio === "9/16";
+  const src = start
+    ? `https://www.youtube.com/embed/${embedId}?start=${start}`
+    : `https://www.youtube.com/embed/${embedId}`;
   return (
     <div className={`relative w-full rounded-md overflow-hidden shadow-md ${isVertical ? "max-h-[600px] aspect-[9/16] mx-auto" : "aspect-video"}`}>
       <iframe
         className="absolute top-0 left-0 w-full h-full"
-        src={`https://www.youtube.com/embed/${embedId}`}
+        src={src}
         title={title}
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
         allowFullScreen
