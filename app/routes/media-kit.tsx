@@ -47,7 +47,7 @@ function MediaKitBody() {
         Want to see the podcast in action? Keep scrolling to see high-engagement moments from the podcast and one of our top performing social media posts.
       </p>
       <p className="mt-4 text-sm">
-        *media kit data will be refreshed May 21, 2026
+        *media kit data will be refreshed August 1, 2026
       </p>
     </section>
 
